@@ -24,7 +24,7 @@ class ViewController: UIViewController {
         
         print("총 합은 \(self.sum), \(count)회 실행되었습니다.")
         
-        //
+        //4
     }
 
 
